@@ -1,0 +1,82 @@
+{
+  "Premier": [
+    {
+      "name": "Egghead.io",
+      "url": "https://egghead.io/",
+      "image": "assets/dist/img/sponsors/egghead.svg",
+      "style": {
+        "width": "500px"
+      }
+    }
+  ],
+  "Platinum": [
+    {
+      "name": "Rangle.io",
+      "url": "http://rangle.io/",
+      "image": "assets/dist/img/sponsors/rangle.png"
+    },
+    {
+      "name": "WalmartLabs",
+      "url": "http://www.walmartlabs.com/",
+      "image": "assets/dist/img/sponsors/walmart.png"
+    },
+    {
+      "name": "Jane",
+      "url": "https://jane.com/careers",
+      "image": "assets/dist/img/sponsors/jane.png"
+    }
+  ],
+  "Gold": [
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/careers",
+      "image": "assets/dist/img/sponsors/facebook.png"
+    },
+    {
+      "name": "Instructure",
+      "url": "https://www.instructure.com/careers/",
+      "image": "assets/dist/img/sponsors/instructure.png"
+    },
+    {
+      "name": "Progress",
+      "url": "https://www.progress.com/",
+      "image": "assets/dist/img/sponsors/progress.png"
+    }
+  ],
+  "Silver": [
+    {
+      "name": "Mozilla",
+      "url": "https://www.mozilla.org/",
+      "image": "assets/dist/img/sponsors/mozilla.png"
+    },
+    {
+      "name": "The Front Side",
+      "url": "http://frontside.io/",
+      "image": "assets/dist/img/sponsors/frontside.png",
+      "style": {"maxWidth": 150}
+
+    }
+  ],
+  "Supporters": [
+    {
+      "name": "Salesforce",
+      "url": "http://www.salesforce.com/company/careers/",
+      "image": "assets/dist/img/sponsors/salesforce.png"
+    },
+    {
+      "name": "Netflix",
+      "url": "https://jobs.netflix.com/",
+      "image": "assets/dist/img/sponsors/netflix.png"
+    },
+    {
+      "name": "Deque",
+      "url": "http://www.deque.com/",
+      "image": "assets/dist/img/sponsors/deque.png"
+    },
+    {
+      "name": "React Training",
+      "url": "http://reactjs-training.com/",
+      "image": "assets/dist/img/sponsors/react-training.png"
+    }
+  ]
+}
